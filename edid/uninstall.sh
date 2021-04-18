@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/env bash
 
 sudo rm /usr/lib/firmware/edid/u2711.bin
 

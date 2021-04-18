@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/env bash
 
 sudo mkdir -p /usr/lib/firmware/edid/
 sudo cp -uv edid.bin /usr/lib/firmware/edid/u2711.bin

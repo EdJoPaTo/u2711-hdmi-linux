@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/env bash
 
 echo "new mode"
 #sudo xrandr --newmode "2560x1440-HDMI"  312.25  2560 2752 3024 3488  1440 1443 1448 1493 -hsync +vsync
